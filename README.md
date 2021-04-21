@@ -1,6 +1,6 @@
 # Xthreader
 
-Xthreader is a general purpose tool used to thread command/command line tools.the tool allows you can execute the tool or the command multiple times very fast with ability to give the command different input in each thread using a command template.
+Xthreader is a general purpose tool used to thread commands/command line tools.the tool allows you can execute the tool or the command multiple times very fast with ability to give the command different input in each thread using a command template.
 
 
 ___
