@@ -15,8 +15,8 @@ xthreader [options]
 
 ### Flags:
 
-| Flag   |  Description  |
-----|----|
+| Flag          |  Description                                                                                                                             |
+----------------|------------------------------------------------------------------------------------------------------------------------------------------|
   -c,--command  |   the command or the template of the command that you want to thread.(required) |  
   -t,--threads  |   the amount of threads.(optional)(default is 10) |
   -i,--input    |   the input file or the list of input files.(optional) | 
