@@ -13,7 +13,7 @@ ___
 xthreader [options]
 ```
 
-### Flags:
+#### Flags:
 
 | Flag          |  Description                                                                                                                             |
 ----------------|------------------------------------------------------------------------------------------------------------------------------------------|
@@ -26,14 +26,14 @@ xthreader [options]
   -h,--help     |  to show the help menu.(optional) |
 
 
-### Examples:
+#### Examples:
 
 1. xthreader -c 'ping 192.168.1.1' -t 10 -n 2 -s 1
 1. xthreader -c 'dig A $var1' -i domains.txt -t 50 -v
 1. xthreader -c 'echo "$var1$var2" > $var3' -i f1.txt,f2.txt,f3.txt -t 10
 
 
-
+___
 
 ## Installation:
 
